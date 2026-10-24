@@ -25,9 +25,9 @@ These objects return ANSI escape sequences as strings. Insert them into your out
 ```python
 from snippysnappy import Fore, Back, Style, Reset
 
-print(f"{Fore.Red}This text is red.{Reset.All}")
-print(f"{Back.Blue}This text has a blue background.{Reset.All}")
-print(f"{Style.Bold}This text is bold.{Reset.All}")
+print(f"{Fore.RED}This text is red.{Reset.ALL}")
+print(f"{Back.BLUE}This text has a blue background.{Reset.ALL}")
+print(f"{Style.BOLD}This text is bold.{Reset.ALL}")
 ```
 
 
