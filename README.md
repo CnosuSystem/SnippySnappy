@@ -68,3 +68,8 @@ For the changelog, please reffer to the [CHANGELOG.md](https://github.com/CnosuS
 ## License
 
 This project is licensed under the [GNU GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) - see the [LICENSE.md](https://github.com/CnosuSystem/SnippySnappy?tab=GPL-3.0-1-ov-file) file for details.
+
+
+## Acknowledgements
+
+* ANSI colors inspired by and based on the [tartley/colorama](https://github.com/tartley/colorama) GitHub repo
