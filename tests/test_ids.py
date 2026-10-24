@@ -2,7 +2,7 @@
 
 # Test if the functions in ids.py actually work.
 
-# Check get_id
+# Check get_id.
 
 from snippysnappy import get_id
 
