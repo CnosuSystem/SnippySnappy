@@ -7,13 +7,13 @@ A collection of Cnosu's code snippets. Basically a library.
 
 If you have Git installed, you can install the latest version directly from this repository using:
 
-```bash
+```powershell
 pip install "git+https://github.com/CnosuSystem/SnippySnappy.git"
 ```
 
 If you installed the project but want to update it to the latest version, use:
 
-```bash
+```powershell
 pip install --upgrade "git+https://github.com/CnosuSystem/SnippySnappy.git"
 ```
 
@@ -28,7 +28,7 @@ If you don't have Git, you can build the project from source.
 
 Make sure you have Git installed, then clone the repository:
 
-```bash
+```powershell
 git clone https://github.com/CnosuSystem/SnippySnappy.git
 cd SnippySnappy
 ```
@@ -39,13 +39,13 @@ If you don't have Git, simply download the raw source .zip file from GitHub and 
 
 Install the project with:
 
-```bash
+```powershell
 python -m pip install .
 ```
 
 You can also use this command to install it as an editable developer build (will allow you to use ruff and pytest).
 
-```bash
+```powershell
 pip install -e ".[dev]"
 ```
 
